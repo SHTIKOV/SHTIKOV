@@ -5,8 +5,6 @@ I fell in love with the Symfony ecosystem as back-end and VUE as front-end. I al
 
 Feel free to reach me on telegram @shtikov
 
-[![codewars](https://www.codewars.com/users/SHTIKOV/badges/micro)](https://www.codewars.com/users/SHTIKOV) 
-
 <h3 align="center">Software developer, Symfony contributor from Russia 🇷🇺</h3>
 
 
